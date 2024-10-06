@@ -2,7 +2,7 @@
 
 The Object Detector is a web-based application that utilizes a machine learning model to detect multiple objects in real-time using a webcam. This project leverages the COCO-SSD model and TensorFlow.js to enable in-browser object detection, allowing users to see detected objects highlighted with bounding boxes and labeled with their classification and confidence score.
 
-![Object Detector](https://github.com/yerin16/object-detector/blob/main/images/preview.png?raw=true)
+![Object Detector](https://github.com/yerin16/object-detector/blob/master/images/preview.png?raw=true)
 
 
 ## Table of Contents
